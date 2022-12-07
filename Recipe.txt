@@ -6,6 +6,10 @@ Chicken fry
 paasta
 Gulab jamun
 
+vegetables ;
+bean 
+tamato
+
 
 
 Thank you
